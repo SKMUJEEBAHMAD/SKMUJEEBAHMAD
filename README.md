@@ -50,12 +50,10 @@ Passionate about building scalable backend applications, secure REST APIs, and e
 
 ## 🌟 Beyond Coding
 
-- 🎤 Community Leadership (GDG On Campus – Social Networking Lead)
-- 🎬 Video Editing
-- 🎨 Graphic Design
-- 🤝 Team Collaboration
+- 🎤 GDG On Campus – Social Networking Lead
+- 🎬 Video Editing & Content Creation
+- 🤝 Leadership & Team Collaboration
 - 💬 Communication & Public Speaking
-- 🚀 Continuous Learning
 
 ---
 
